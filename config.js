@@ -3,7 +3,7 @@
 window.RANGKA_CONFIG = {
   edition: "demo",
   deployed: true,
-  buyUrl: "https://mayar.id",          // <- GANTI dengan link halaman produk Mayar Anda
+  buyUrl: "https://ilmudrafter.myr.id/catalog/rangka-3d-full-version-pribadi",          // <- GANTI dengan link halaman produk Mayar Anda
   buyLabel: "Beli versi lengkap",
   skpConverterUrl: null
 };
